@@ -2,6 +2,8 @@
 This pipeline creates a PCA plot of RNASeq data from Kenny PJ et al. 
 It's goal is to test how R draws a figures. I'm currently
 encountering an error where the text is replaced by empty rectangles.
+See [this](https://github.com/snakemake-workflows/rna-seq-star-deseq2/issues/27) 
+issue for an example of the error.
 
 To replicate the rectangle drawing error, run the pipeline with conda and singularity:
 ```
