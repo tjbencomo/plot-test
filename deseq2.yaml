@@ -95,3 +95,4 @@ dependencies:
   - r-xml =3.98_1.6
   - r-xtable =1.8_2
   - r-yaml =2.1.14
+  - mscorefonts
